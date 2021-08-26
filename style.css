@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+* form {
+    display: inline-block;
+  }
+  button {
+    padding: 10px;
+  }
+  .hidden {
+  background-color: red;
+    display: none;
+  }
+  .show{
+      background-color: blue;
+      display: visible;
+  }
